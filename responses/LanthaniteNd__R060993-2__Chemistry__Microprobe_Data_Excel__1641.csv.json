@@ -1,0 +1,67 @@
+{
+    "file_description": "Analytical measurement results for R060993 Lanthanite-(Nd) sample, including compositions of various oxides and elements.",
+    "quality_score": 0.85,
+    "compositions": [
+        {
+            "name": "CO2",
+            "value": "21.912",
+            "unit": "wt%"
+        },
+        {
+            "name": "Y2O3",
+            "value": "0.7045415",
+            "unit": "wt%"
+        },
+        {
+            "name": "Nd2O3",
+            "value": "26.16492",
+            "unit": "wt%"
+        },
+        {
+            "name": "La2O3",
+            "value": "16.3597316666667",
+            "unit": "wt%"
+        },
+        {
+            "name": "Pr2O3",
+            "value": "4.52092683333333",
+            "unit": "wt%"
+        },
+        {
+            "name": "Sm2O3",
+            "value": "3.46602566666667",
+            "unit": "wt%"
+        },
+        {
+            "name": "Eu2O3",
+            "value": "0.869593888888889",
+            "unit": "wt%"
+        },
+        {
+            "name": "Gd2O3",
+            "value": "2.34076405555556",
+            "unit": "wt%"
+        },
+        {
+            "name": "Tb2O3",
+            "value": "0.152130611111111",
+            "unit": "wt%"
+        },
+        {
+            "name": "Dy2O3",
+            "value": "0.4253555",
+            "unit": "wt%"
+        },
+        {
+            "name": "H2O+",
+            "value": "23.50",
+            "unit": "wt%"
+        },
+        {
+            "name": "H2O-",
+            "value": "0.00",
+            "unit": "wt%"
+        }
+    ],
+    "summary_insights": "The data is comprehensive with detailed measurements for each oxide and element. However, there are some missing values for H2O-, which are marked as zero. The standard deviations and percentages of error (E%) are provided, indicating variability in measurements for some components. The sample is described as Lanthanite-(Nd) with a formula provided, suggesting a high level of detail in the analysis."
+}
